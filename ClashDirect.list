@@ -2,3 +2,4 @@
 
 DOMAIN,imap-mail.outlook.com
 DOMAIN,smtp-mail.outlook.com
+DOMAIN-SUFFIX,ksust.com
